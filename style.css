@@ -1,0 +1,57 @@
+h1{
+    background-color: rgb(193, 210, 250);
+    border: 3px solid red;
+    text-align: center;
+    border-radius: 20px;
+}
+.span2{
+    background-color: yellow;
+}
+.span1{
+    color: rgb(1, 1, 181);
+}
+.span3{
+    color: red;
+}
+.h2{
+    color: green;
+}
+.h22{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+img{
+    width: 45%;
+    height: 430px;
+}
+button{
+    background-color: #5aafff;
+    border: 1px solid #5aafff;
+    color: white;
+    height: 40px;
+    width: 350px;
+    font-size: x-large;
+}
+table{
+    border-collapse: collapse;
+    width: 90%;
+    text-align: center;
+    color: white;
+    border: 1px solid rgb(163, 163, 163);
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.black{
+    background-color: black;
+}
+tr{
+    height: 30px;
+}
